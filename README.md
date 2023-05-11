@@ -1,6 +1,5 @@
 ---
-Não consegui upar o banco de dados aqui, mas você pode acha-lo no Hugging face, os dados treinados foram:
-- https://huggingface.co/datasets/AllanFrostin/autotrain-data-analise-morfosintatica-ptbr
+# Modelo de Morfossintaxe Treinado Usando AutoTrain - Dev: AllanFrostin
 ---
 
 ---
@@ -8,7 +7,10 @@ E o modelo pode ser usado em:
 - https://huggingface.co/AllanFrostin/analise-morfossintatica-ptbr
 ---
 
-# Modelo de Morfossintaxe Treinado Usando AutoTrain - Dev: AllanFrostin
+---
+E o modelo pode ser usado em: 
+- https://huggingface.co/AllanFrostin/analise-morfossintatica-ptbr
+---
 
 O modelo de Allan Frostin é um modelo de análise morfossintática para a língua portuguesa, que utiliza técnicas de aprendizado automático para identificar diferentes tipos de palavras em uma frase, como verbos, substantivos e adjetivos. Ele é capaz de analisar a estrutura gramatical de uma frase e identificar entidades específicas dentro dela.
 
