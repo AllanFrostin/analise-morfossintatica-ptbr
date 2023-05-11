@@ -1,5 +1,6 @@
 ---
-# Modelo de Morfossintaxe Treinado Usando AutoTrain - Dev: AllanFrostin
+# Modelo de Morfossintaxe Treinado Usando AutoTrain 
+- Dev: AllanFrostin
 ---
 
 ---
