@@ -1,4 +1,18 @@
-Modelo de Morfossintaxe Treinado Usando AutoTrain - Dev: AllanFrostin
+---
+tags:
+- autotrain
+- token-classification
+language:
+- pt
+widget:
+- text: "O rato roeu a roupa do rei de Roma."
+datasets:
+- AllanFrost/autotrain-data-analise-morfosintatica-ptbr
+co2_eq_emissions:
+  emissions: 6.411793801438884
+---
+
+# Modelo de Morfossintaxe Treinado Usando AutoTrain - Dev: AllanFrostin
 
 O modelo de Allan Frostin é um modelo de análise morfossintática para a língua portuguesa, que utiliza técnicas de aprendizado automático para identificar diferentes tipos de palavras em uma frase, como verbos, substantivos e adjetivos. Ele é capaz de analisar a estrutura gramatical de uma frase e identificar entidades específicas dentro dela.
 
@@ -9,5 +23,6 @@ O ID do modelo é 57436132788 e ele apresentou emissões de CO2 de 6.4118 gramas
 Com esse modelo, é possível identificar entidades em um texto. Ao tokenizar o texto usando o tokenizer e passar esses tokens para o modelo, é possível obter as previsões. Em um exemplo de uso, o modelo foi capaz de identificar várias entidades na frase "O rato roeu a roupa do rei de Roma", incluindo um adjetivo, um substantivo, um artigo, uma preposição e dois substantivos próprios.
 
 Espero que isso ajude! Qualquer outra dúvida, é só perguntar.
+
 
 ``` AllanFrostin
