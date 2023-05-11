@@ -1,6 +1,6 @@
 ---
 Não consegui upar o banco de dados aqui, mas você pode acha-lo no Hugging face, os dados treinados foram:
--https://huggingface.co/datasets/AllanFrostin/autotrain-data-analise-morfosintatica-ptbr
+- https://huggingface.co/datasets/AllanFrostin/autotrain-data-analise-morfosintatica-ptbr
 ---
 
 ---
