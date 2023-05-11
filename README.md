@@ -1,15 +1,6 @@
 ---
 tags:
 - autotrain
-- token-classification
-language:
-- pt
-widget:
-- text: "O rato roeu a roupa do rei de Roma."
-datasets:
-- AllanFrost/autotrain-data-analise-morfosintatica-ptbr
-co2_eq_emissions:
-  emissions: 6.411793801438884
 ---
 
 # Modelo de Morfossintaxe Treinado Usando AutoTrain - Dev: AllanFrostin
